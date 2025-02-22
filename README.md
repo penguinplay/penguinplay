@@ -1,3 +1,1 @@
-# About me
-
-- meow :3
+meow :3
